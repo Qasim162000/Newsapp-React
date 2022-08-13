@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "PA Staff",
+      "title": "Football rumours: Phil Foden agrees new Manchester City deal",
+      "description": null,
+      "url": "https://www.fourfourtwo.com/news/football-rumours-phil-foden-agrees-new-manchester-city-deal-1659507564000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qjCgNyecSLPPWyPFQAteKS-1200-80.jpg",
+      "publishedAt": "2022-08-03T06:19:24Z",
+      "content": "What the papers say\r\nPhil Foden and Manchester City have reportedly agreed terms on a new contract for the 22-year-old midfielder. The Daily Mail says the two parties have negotiated a deal worth aro… [+1193 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "PA Staff",
+      "title": "England to play World Cup holders the United States in Wembley friendly",
+      "description": "Newly-crowned European champions England are set to face World Cup holders the United States at Wembley in October, the Football Association has announced.",
+      "url": "https://www.fourfourtwo.com/news/england-to-play-world-cup-holders-the-united-states-in-wembley-friendly-1659450956000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kaC3Ys62gd7wceWosGapvM-1200-80.jpg",
+      "publishedAt": "2022-08-02T14:35:56Z",
+      "content": "Newly-crowned European champions England are set to face World Cup holders the United States at Wembley in October, the Football Association has announced.\r\nThe Lionesses will return to the scene of … [+4187 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
